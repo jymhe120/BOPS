@@ -12,6 +12,7 @@ We are using the data to construct serveral to answer the following questions:</
 5. What is the impact of implementing BOPS strategy on product-level sales and returns?</p>
 6. How does the impact of implementing BOPS strategy vary across product categories?</p>
 
-Please find the report for this project ![here](https://github.com/jymhe120/BOPS/blob/master/Bops.pdf).
+Please find the report for this project ![here](https://github.com/jymhe120/BOPS/blob/master/Bops.pdf)
+and the source code in R ![here](https://github.com/jymhe120/BOPS/blob/master/final%20project.R).
 
 Other contributers: Yukun Shen, Shizhao Li, Jiayu Wang
